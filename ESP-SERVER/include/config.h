@@ -6,8 +6,8 @@
 #include <ESP8266WebServer.h>
 
 
-const char *ssid = "vivo 1816";
-const char *pass = "12345PSR";
+const char *ssid = "<your_ssid>";
+const char *pass = "<your_password>";
 
 
 #endif
