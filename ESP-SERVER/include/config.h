@@ -6,8 +6,8 @@
 #include <ESP8266WebServer.h>
 
 
-const char *ssid = "<your_ssid>";
-const char *pass = "<your_password>";
+const char *ssid = "ssid";
+const char *pass = "password";
 
 
 #endif
